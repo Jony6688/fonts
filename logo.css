@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "logo";
+  src: url("logo.woff2") format("woff2"),
+       url("logo.woff") format("woff"),
+       url("logo.ttf") format("truetype"),
+       url("logo.eot") format("embedded-opentype"),
+       url("logo.svg") format("svg"),
+       url("logo.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
